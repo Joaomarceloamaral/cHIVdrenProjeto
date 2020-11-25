@@ -1,0 +1,30 @@
+{
+  "name": "project-chivdren",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "bootstrap": "^4.5.2",
+    "ejs": "^3.1.5",
+    "exports": "^0.0.1",
+    "firebase-admin": "^9.1.1",
+    "express": "^4.17.1",
+    "module": "^1.2.5",
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joaomarceloamaral/cHIVdrenProjeto.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Joaomarceloamaral/cHIVdrenProjeto/issues"
+  },
+  "homepage": "https://github.com/Joaomarceloamaral/cHIVdrenProjeto#readme"
+}
