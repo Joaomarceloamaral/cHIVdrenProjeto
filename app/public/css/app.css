@@ -1,0 +1,102 @@
+
+#home{
+    margin-left: 30%;
+}
+
+#atividades{
+    margin-left: 5%;
+}
+
+#faleconosco{
+    margin-left: 5%;
+}
+
+#historias{
+    margin-left: 5%;
+}
+
+#beneficios{
+    margin-left: 4%;
+}
+
+#medicamentos{
+    margin-left: 4%;
+}
+
+#fundoHome1{
+ 
+    background-image: url("../Imagens/2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top right;
+}
+
+#fundoHome2{
+    background-image: url("../Imagens/backg\ historias.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome3{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/Faleconos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome4{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/infos.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome5{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/7.3.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome6{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/7\ pag\ beneficios.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome7{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/7.1\ beneficios.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome8{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/7.2\ beneficios.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+#fundoHome9{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/12.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
+
+#fundoHome10{
+    padding-bottom: 48%;
+    background-image: url("../Imagens/5.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left right;
+}
