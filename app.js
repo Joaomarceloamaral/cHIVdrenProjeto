@@ -13,10 +13,13 @@ app.set('views','./app/public/views');
 app.use(express.static('./app/public'));
 
 
-app.get('/home', function(req,res){
+app.get('/', function(req,res){
         res.render('home');
 });
 
+app.get('/home', function(req,res){
+    res.render('home');
+});
 app.get('/historias', function(req,res){
         res.render('historias');
 });
