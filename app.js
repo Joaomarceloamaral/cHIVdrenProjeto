@@ -36,6 +36,10 @@ app.get('/medicamentos', function(req,res){
     res.render('medicamentos');
 });
 
+app.get('/atividades', function(req,res){
+    res.render('atividades');
+});
+
 
 
 
